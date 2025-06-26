@@ -4,7 +4,6 @@ com\rays\dao\MarksheetDAOInt.class
 com\rays\dto\SubjectDTO.class
 com\rays\common\mail\EmailForm.class
 com\rays\form\ForgetPasswordForm.class
-com\rays\service\JwtUserDetailsService.class
 com\rays\dao\CollegeDAOImpl.class
 com\rays\dao\CourseDAOInt.class
 com\rays\common\attachment\AttachmentDAOInt.class
@@ -44,6 +43,7 @@ com\rays\common\attachment\AttachmentBaseDTO.class
 com\rays\service\CollegeServiceInt.class
 com\rays\dto\FacultyDTO.class
 com\rays\common\mail\EmailServiceImpl$1.class
+com\rays\config\SecurityConfig.class
 com\rays\ctl\CourseCtl.class
 com\rays\dto\CourseDTO.class
 com\rays\form\StudentForm.class
@@ -51,7 +51,6 @@ com\rays\common\BaseServiceInt.class
 com\rays\ctl\SubjectCtl.class
 com\rays\dao\CollegeDAOInt.class
 com\rays\service\CollegeServiceImpl.class
-com\rays\config\WebSecurityConfig.class
 com\rays\service\CourseServiceImpl.class
 com\rays\dao\FacultyDAOInt.class
 com\rays\common\ORSResponse.class
@@ -65,6 +64,7 @@ com\rays\form\CollegeForm.class
 com\rays\service\StudentServiceInt.class
 com\rays\common\attachment\AttachmentDAOImpl.class
 com\rays\common\message\MessageDAOInt.class
+com\rays\config\JWTRequestFilter.class
 com\rays\form\UserForm.class
 com\rays\service\UserServiceInt.class
 com\rays\common\attachment\AttachmentServiceInt.class
@@ -95,12 +95,11 @@ com\rays\dao\TimeTableDAOImpl.class
 com\rays\exception\DuplicateRecordException.class
 com\rays\common\BaseServiceImpl.class
 com\rays\common\UserContext.class
-com\rays\config\JwtTokenUtil.class
-com\rays\config\JwtRequestFilter.class
 com\rays\dto\UserDTO.class
 com\rays\dto\CollegeDTO.class
 com\rays\form\ChangePasswordForm.class
 com\rays\service\FacultyServiceInt.class
+com\rays\service\JWTUserDetailsService.class
 com\rays\common\MenuItem.class
 com\rays\dao\RoleDAOImpl.class
 com\rays\common\mail\EmailCtl.class
@@ -113,4 +112,5 @@ com\rays\common\attachment\AttachmentDTO.class
 com\rays\form\SubjectForm.class
 com\rays\common\message\MessageServiceInt.class
 com\rays\dao\UserDAOInt.class
+com\rays\config\JWTUtil.class
 com\rays\common\attachment\AttachmentServiceImpl.class

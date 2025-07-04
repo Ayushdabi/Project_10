@@ -14,6 +14,7 @@ C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dt
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\BaseDAOImpl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\SubjectDAOImpl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\ctl\MarksheetCtl.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\form\StaffMemberForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\form\CourseForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\form\StudentForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\CourseDAOImpl.java
@@ -28,7 +29,9 @@ C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\se
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\form\CollegeForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\SubjectDAOInt.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dto\MarksheetDTO.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\StaffMemberServiceImpl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\mail\EmailServiceImpl.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dto\StaffMemberDTO.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\UserServiceInt.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\form\LoginForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\ProjectOrsApplication.java
@@ -60,6 +63,7 @@ C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\da
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\UserServiceImpl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\ctl\CourseCtl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\message\MessageDAOInt.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\StaffMemberDAOImpl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\exception\DuplicateRecordException.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\CourseDAOInt.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\attachment\AttachmentCtl.java
@@ -95,6 +99,7 @@ C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\co
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\JWTUserDetailsService.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\config\SecurityConfig.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\config\JWTRequestFilter.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\StaffMemberServiceInt.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\TimeTableServiceImpl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\form\ForgetPasswordForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\StudentServiceImpl.java
@@ -106,7 +111,9 @@ C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\co
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dto\CollegeDTO.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\mail\EmailCtl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\mail\EmailForm.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\ctl\StaffMemberCtl.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\FacultyDAOImpl.java
+C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\StaffMemberDAOInt.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\dao\MarksheetDAOInt.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\common\message\MessageForm.java
 C:\Workspace\Project-10\Project10-WorkSpace\projectORS\src\main\java\com\rays\service\JasperServiceImpl.java

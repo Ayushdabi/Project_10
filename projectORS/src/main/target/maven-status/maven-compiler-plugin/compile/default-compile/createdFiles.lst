@@ -21,6 +21,7 @@ com\rays\ctl\CollegeCtl.class
 com\rays\common\attachment\AttachmentForm.class
 com\rays\dao\SubjectDAOImpl.class
 com\rays\form\RoleForm.class
+com\rays\form\StaffMemberForm.class
 com\rays\service\SubjectServiceImpl.class
 com\rays\ctl\FacultyCtl.class
 com\rays\common\BaseForm.class
@@ -45,12 +46,15 @@ com\rays\dto\FacultyDTO.class
 com\rays\common\mail\EmailServiceImpl$1.class
 com\rays\config\SecurityConfig.class
 com\rays\ctl\CourseCtl.class
+com\rays\service\StaffMemberServiceInt.class
+com\rays\service\StaffMemberServiceImpl.class
 com\rays\dto\CourseDTO.class
 com\rays\form\StudentForm.class
 com\rays\common\BaseServiceInt.class
 com\rays\ctl\SubjectCtl.class
 com\rays\dao\CollegeDAOInt.class
 com\rays\service\CollegeServiceImpl.class
+com\rays\dao\StaffMemberDAOInt.class
 com\rays\service\CourseServiceImpl.class
 com\rays\dao\FacultyDAOInt.class
 com\rays\common\ORSResponse.class
@@ -90,7 +94,9 @@ com\rays\dao\StudentDAOImpl.class
 com\rays\exception\ApplicationException.class
 com\rays\common\mail\EmailServiceImpl.class
 com\rays\ctl\StudentCtl.class
+com\rays\dao\StaffMemberDAOImpl.class
 com\rays\form\MyProfileForm.class
+com\rays\ctl\StaffMemberCtl.class
 com\rays\dao\TimeTableDAOImpl.class
 com\rays\exception\DuplicateRecordException.class
 com\rays\common\BaseServiceImpl.class
@@ -98,6 +104,7 @@ com\rays\common\UserContext.class
 com\rays\dto\UserDTO.class
 com\rays\dto\CollegeDTO.class
 com\rays\form\ChangePasswordForm.class
+com\rays\dto\StaffMemberDTO.class
 com\rays\service\FacultyServiceInt.class
 com\rays\service\JWTUserDetailsService.class
 com\rays\common\MenuItem.class

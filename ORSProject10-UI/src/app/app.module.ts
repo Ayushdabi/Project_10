@@ -52,6 +52,8 @@ import { FooterComponent } from './footer/footer.component';
 import { AuthService } from './auth.service';
 import { MyprofileComponent } from './user/myprofile.component';
 import { JasperReportComponent } from './jasper-report/jasper-report.component';
+import { StaffmemberComponent } from './staffmember/staffmember.component';
+import { StaffmemberlistComponent } from './staffmember/staffmemberlist.component';
 
 
 export function myHttpLoader(http: HttpClient) {
@@ -94,7 +96,9 @@ export function myHttpLoader(http: HttpClient) {
     SpinnerComponent,
     FooterComponent,
     MyprofileComponent,
-    JasperReportComponent
+    JasperReportComponent,
+    StaffmemberComponent,
+    StaffmemberlistComponent
   ],
   imports: [
     BrowserModule,

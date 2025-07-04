@@ -32,6 +32,8 @@ import { LoaderComponent } from './loader/loader.component';
 import { SpinnerComponent } from './spinner/spinner.component';
 import { MyprofileComponent } from './user/myprofile.component';
 import { JasperReportComponent } from './jasper-report/jasper-report.component';
+import { StaffmemberComponent } from './staffmember/staffmember.component';
+import { StaffmemberlistComponent } from './staffmember/staffmemberlist.component';
 const routes: Routes = [
     {
         path: '',
@@ -140,6 +142,22 @@ const routes: Routes = [
         component: UserListComponent
 
     },
+    {
+        path: 'staffmember',
+        component: StaffmemberComponent
+
+    },
+    {
+        path: 'staffmember/:id',
+        component: StaffmemberComponent
+
+    },
+    {
+        path: 'staffmemberlist',
+        component: StaffmemberlistComponent
+
+    },
+
     {
         path: 'role',
         component: RoleComponent

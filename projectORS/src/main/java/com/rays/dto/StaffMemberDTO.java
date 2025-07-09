@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import com.rays.common.BaseDTO;
 
 @Entity
-@Table(name = "ST_STAFF")
+@Table(name = "st_staff")
 public class StaffMemberDTO extends BaseDTO{
 	
 	@Column(name = "FULLNAME", length = 100)
